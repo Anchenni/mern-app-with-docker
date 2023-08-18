@@ -1,1 +1,1 @@
-# mern-app-with-docker
+# docker-mern-app
