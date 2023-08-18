@@ -13,9 +13,6 @@ The MERN stack is a popular combination of technologies used to build modern web
 
 The MERN stack allows developers to build full-stack applications with a unified language (JavaScript) across both the frontend and backend. Docker can be used to containerize and deploy these components, making it easier to manage development environments and deploy applications to various environments.
 
-***Setting Up a MERN Application Using Docker:***
-
-
 
 **Step 1: Create the Project Directory**
 
