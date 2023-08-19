@@ -1,7 +1,5 @@
 # Mern application with Docker
 
-Certainly! Here's an introduction to the MERN stack and how to set up a MERN application using Docker:
-
 **Introduction to the MERN Stack:**
 
 The MERN stack is a popular combination of technologies used to build modern web applications. It consists of four core components:
